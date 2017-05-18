@@ -1,0 +1,11 @@
+Domino Sugars Notes:
+
+Dimensions:
+
+- The sign is 120 ft x 70 ft (36.576 x 21.336)
+
+- Bldg dimensions:
+	- Google Earth ruler estimates
+		203.87m (l) x 102.78m (w)
+
+- Google's 3D Warehouse kmz model dimensions:
